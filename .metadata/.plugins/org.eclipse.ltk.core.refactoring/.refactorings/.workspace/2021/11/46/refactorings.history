@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;HMI_ECU&apos;" deleteContents="false" description="Delete resource &apos;HMI_ECU&apos;" element1="/HMI_ECU" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1636323584355"/>
+</session>
